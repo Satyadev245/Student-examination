@@ -1,0 +1,6 @@
+{
+  "name": "DataPro Institute – Student Examination Management System",
+  "description": "Comprehensive, secure, role-based examination and academic management portal for DataPro Institute, Gajuwaka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
